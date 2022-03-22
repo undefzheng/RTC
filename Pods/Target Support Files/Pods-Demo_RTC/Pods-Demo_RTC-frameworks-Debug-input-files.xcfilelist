@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Demo_RTC/Pods-Demo_RTC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CocoaLumberjack/CocoaLumberjack.framework
+${BUILT_PRODUCTS_DIR}/GHODictionary/GHODictionary.framework
+${PODS_ROOT}/GoogleWebRTC/Frameworks/frameworks/WebRTC.framework
+${BUILT_PRODUCTS_DIR}/MPMessagePack/MPMessagePack.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

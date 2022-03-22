@@ -1,0 +1,34 @@
+PODS:
+  - CocoaLumberjack (3.7.2):
+    - CocoaLumberjack/Core (= 3.7.2)
+  - CocoaLumberjack/Core (3.7.2)
+  - GHODictionary (1.1.0)
+  - GoogleWebRTC (1.1.31999)
+  - MPMessagePack (1.5.1):
+    - GHODictionary
+  - Starscream (4.0.4)
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - GoogleWebRTC (~> 1.1.31999)
+  - MPMessagePack
+  - Starscream
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - GHODictionary
+    - GoogleWebRTC
+    - MPMessagePack
+    - Starscream
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: b7e05132ff94f6ae4dfa9d5bce9141893a21d9da
+  GHODictionary: 225e042596a4b3d5b66b2b24250086b2f95514af
+  GoogleWebRTC: b39a78c4f5cc6b0323415b9233db03a2faa7b0f0
+  MPMessagePack: ee6b55fbec4e01a77e2bf631441d01f0b87b3cf5
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+
+PODFILE CHECKSUM: 7539bda6a5c5c2dff4a47c9f182c695e0492967c
+
+COCOAPODS: 1.11.2
